@@ -4,10 +4,10 @@
     "kid": "609d795905904705028ef54653019af7",
     "key": "2c791eb611e57a7d7f203022bc1b9ba3"
   },
-  "laliga": {
-    "mpd": "https://example.com/laliga/stream.mpd",
-    "kid": "11111111111111111111111111111111",
-    "key": "22222222222222222222222222222222"
+  "tsn4": {
+    "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+    "kid": "c4088f5f265f9de50cffd80bf89308b7",
+    "key": "2c4d2239d96d532b4ec2050653611003"
   },
   "ucl": {
     "mpd": "https://example.com/ucl/stream.mpd",
