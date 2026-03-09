@@ -13,5 +13,10 @@
     "mpd": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
     "kid": "7e9239c1982d984a002df3ed049d0756",
     "key": "1b8a17598129a3618535c8fb05f103fe"
+  },
+  "tnt1": {
+    "mpd": "https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+    "kid": "7995c724a13748ed970840a8ab5bb9b3",
+    "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
   }
-}
+  }
