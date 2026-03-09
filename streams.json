@@ -19,6 +19,11 @@
     "kid": "7e9239c1982d984a002df3ed049d0756",
     "key": "1b8a17598129a3618535c8fb05f103fe"
   },
+  "tnt2": {
+    "mpd": "https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+    "kid": "f288380ca4cef9ad3f27a92a08e9bb8b",
+    "key": "9f18d26291d9230833501f7f822f6875"
+  },
   "tnt1": {
     "mpd": "https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
     "kid": "294b5761cefc22d0c6312939e13d8278",
